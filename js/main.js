@@ -17,3 +17,4 @@ $(window).on('scroll', function(){
 		$('header').removeClass('menu-fixed');
 	}
 });
+
